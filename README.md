@@ -1,4 +1,5 @@
-# PRODIGY_CS_04
+## PRODIGY_CS_04
+# Simple Keylogger
 ## Introduction
 The Simple Keylogger is a basic Python-based tool that records and logs keystrokes. It captures the keys pressed by the user and logs them into a text file. This project is intended for educational purposes and ethical use only, such as monitoring your own system's activity or for learning about how keyloggers work. Ethical considerations and permissions are crucial for any projects involving keyloggers.
 
